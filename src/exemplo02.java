@@ -5,7 +5,7 @@ public class exemplo02 {
 
         Random rd = new Random();
 
-        /*double aux = Math.random()*10;    //control shidt e barra para fazer um comentario
+        /*double aux = Math.random()*10;    //control shift e barra para fazer um comentario
         int valor = (int)aux;
         System.out.println(aux);
         System.out.println(valor);*/
